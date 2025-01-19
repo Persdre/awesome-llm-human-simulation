@@ -49,7 +49,7 @@ Collection of papers related to llm human simulation
 
 (CVPR 2024) Sequential modeling enables scalable learning for large vision models [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_Sequential_Modeling_Enables_Scalable_Learning_for_Large_Vision_Models_CVPR_2024_paper.pdf) [Code](https://github.com/ytongbai/LVM)
 
-(Arxiv 2024.02.19) Llm agents for psychology: A study on gamified assessments [Paper](https://arxiv.org/pdf/2402.12326) [Code](https://github.com/yang2024llm/example-repo) ![Stars](https://img.shields.io/github/stars/yang2024llm/example-repo)
+(Arxiv 2024.02.19) Llm agents for psychology: A study on gamified assessments [Paper](https://arxiv.org/pdf/2402.12326) 
 
 (Arxiv 2024.05.12) Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis [Paper](https://arxiv.org/abs/2405.07248) 
 
@@ -301,7 +301,7 @@ Collection of papers related to llm human simulation
 
 (Arxiv 2024.02.16) In search of needles in a 10m haystack: Recurrent memory finds what llms miss [Paper](https://arxiv.org/pdf/2402.10790) [Code](https://github.com/booydar/babilong)
 
-(NeurIPS 2022) Large language models are zero-shot reasoners [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf) [Code](https://github.com/kojima2022large/example-repo) ![Stars](https://img.shields.io/github/stars/kojima2022large/example-repo)
+(NeurIPS 2022) Large language models are zero-shot reasoners [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf) 
 
 (NeurIPS 2022) Chain-of-thought prompting elicits reasoning in large language models [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
 
@@ -591,7 +591,7 @@ Collection of papers related to llm human simulation
 
 (Information Fusion 2025.01) Deep learning for cross-domain data fusion in urban computing: Taxonomy, advances, and outlook [Paper](https://arxiv.org/pdf/2402.19348) [Code](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)
 
-(WWW '24: Proceedings of the ACM Web Conference 2024) Urbanclip: Learning text-enhanced urban region profiling with contrastive language-image pretraining from the web [Paper](https://openreview.net/pdf?id=KCZU12jzfCbanclip/example-repo) ![Stars](https://img.shields.io/github/stars/yan2024urbanclip/example-repo)
+(WWW '24: Proceedings of the ACM Web Conference 2024) Urbanclip: Learning text-enhanced urban region profiling with contrastive language-image pretraining from the web [Paper](https://openreview.net/pdf?id=KCZU12jzfCbanclip/example-repo) 
 
 (Arxiv 2024.10.03) Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge [Paper](https://arxiv.org/pdf/2410.02736) [Code](https://llm-judge-bias.github.io/)
 
