@@ -1,6 +1,16 @@
 # awesome-llm-human-simulation
 
-Collection of papers related to llm human simulation
+[![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/your-github-repo/pulls)  <!-- Replace with your repo link -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  <!-- Replace with your LICENSE file link -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+This repository is a curated collection of research papers, articles, and resources focused on **LLM-based Human Simulation**.  It explores the use of Large Language Models (LLMs) to simulate human behavior, cognition, and social interactions. This field has implications for various domains, including psychology, economics, education, and AI safety.
+
+We aim to provide a comprehensive and up-to-date resource for researchers, practitioners, and anyone interested in this exciting area.  Contributions are highly encouraged!  Please submit pull requests, report issues, or suggest new resources.
+
+-----
+
+**Note:** This repository is actively maintained. If you would like to have your paper included, please feel free to initiate a [pull request]([https://github.com/your-github-repo](https://github.com/Persdre/awesome-llm-human-simulation/pulls). <!-- Replace with your repo link -->
 
 ## 1. Foundations & Surveys
 
