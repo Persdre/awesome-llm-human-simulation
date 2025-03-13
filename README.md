@@ -10,7 +10,7 @@ We aim to provide a comprehensive and up-to-date resource for researchers, pract
 
 -----
 
-**Note:** This repository is actively maintained. If you would like to have your paper included, please feel free to initiate a [pull request]([https://github.com/your-github-repo](https://github.com/Persdre/awesome-llm-human-simulation/pulls). <!-- Replace with your repo link -->
+**Note:** This repository is actively maintained. If you would like to have your paper included, please feel free to initiate a [pull request](https://github.com/Persdre/awesome-llm-human-simulation/pulls). <!-- Replace with your repo link -->
 
 ## 1. Foundations & Surveys
 
@@ -164,3 +164,7 @@ We aim to provide a comprehensive and up-to-date resource for researchers, pract
 *   (NLP Journal 2023.09) Employing large language models in survey research [Paper](https://doi.org/10.1016/j.nlp.2023.100020)
 *   (CVPR 2024) Sequential modeling enables scalable learning for large vision models [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_Sequential_Modeling_Enables_Scalable_Learning_for_Large_Vision_Models_CVPR_2024_paper.pdf) [Code](https://github.com/ytongbai/LVM)
 *   (CHI 2024) "You Are Not the Expert Here": How Large Language Models Impact Help-Seeking in Online Communities [Paper](https://arxiv.org/abs/2404.01748)
+
+## Acknowledgement
+
+The repository is initially built and maintained by [Qian Wang](https://persdre.github.io/) ([persdre@gmail.com](mailto:persdre@gmail.com)).
