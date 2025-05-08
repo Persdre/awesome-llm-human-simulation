@@ -168,3 +168,20 @@ We aim to provide a comprehensive and up-to-date resource for researchers, pract
 ## Acknowledgement
 
 The repository is initially built and maintained by [Qian Wang](https://persdre.github.io/) ([persdre@gmail.com](mailto:persdre@gmail.com)).
+
+## Citation
+
+If you find this repository useful, you could consider citing our paper:
+```
+@inproceedings{wang2025canllmsimulations,
+  author = {Wang, Qian and Tang, Zhenheng and He, Bingsheng},
+  title = {Can LLM Simulations Truly Reflect Humanity? A Deep Dive},
+  abstract = {Simulation powered by Large Language Models (LLMs) has become a promising method for exploring complex human social behaviors. However, the application of LLMs in simulations presents significant challenges, particularly regarding their capacity to accurately replicate the complexities of human behaviors and societal dynamics, as evidenced by recent studies highlighting discrepancies between simulated and real-world interactions. This blog rethinks LLM-based simulations by emphasizing both their limitations and the necessities for advancing LLM simulations. By critically examining these challenges, we aim to offer actionable insights and strategies for enhancing the applicability of LLM simulations in human society in the future.},
+  booktitle = {ICLR Blogposts 2025},
+  year = {2025},
+  date = {April 28, 2025},
+  note = {https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/},
+  url  = {https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/}
+}
+```
+
