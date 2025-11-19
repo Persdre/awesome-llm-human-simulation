@@ -23,6 +23,7 @@ We aim to provide a comprehensive and up-to-date resource for researchers, pract
 
 ## 2. LLM for Human Behavior Simulation
 
+*   (EMNLP 2025) Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations [Paper](https://arxiv.org/abs/2509.16457) [Code](https://github.com/HATS-ICT/PEBA-ASI)
 *   (Arxiv 2024.11.15) Generative Agent Simulations of 1,000 People [Paper](https://arxiv.org/pdf/2411.10109)
 *   (Arxiv 2024.09.06) Can llms generate novel research ideas? a large-scale human study with 100+ nlp researchers [Paper](https://arxiv.org/pdf/2409.04109?) [Code](https://github.com/NoviScl/AI-Researcher)
 *   (Arxiv 2024.08.16) Language Models Show Stable Value Orientations Across Diverse Role-Plays [Paper](https://arxiv.org/pdf/2408.09049)
