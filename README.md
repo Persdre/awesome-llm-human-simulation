@@ -186,3 +186,18 @@ If you find this repository useful, you could consider citing our paper:
 }
 ```
 
+```
+@misc{wang2025llmbasedhumansimulationsreliable,
+      title={LLM-based Human Simulations Have Not Yet Been Reliable}, 
+      author={Qian Wang and Jiaying Wu and Zichen Jiang and Zhenheng Tang and Bingqiao Luo and Nuo Chen and Wei Chen and Bingsheng He},
+      year={2025},
+      eprint={2501.08579},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.08579}, 
+}
+```
+
+
+
+
