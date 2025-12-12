@@ -133,6 +133,7 @@ We aim to provide a comprehensive and up-to-date resource for researchers, pract
 
 ## 8. Social Simulation
 
+*   (CSCW 2025) Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human–Agent Interactions [Paper](https://dl.acm.org/doi/abs/10.1145/3757633)
 *   (JASSS 2023) Unpacking a black box: a conceptual anatomy framework for agent-based social simulation models [Paper](http://research.sdpublishers.net/id/eprint/2686/1/4.pdf)
 *   (GPH-International Journal of Social Science and Humanities Research 2023) Simulation: A Tool for System Design and Analysis [Paper](https://gphjournal.org/index.php/ssh/article/download/1147/818)
 *   (Minds and Machines 2020.06.15) Analysing the combined health, social and economic impacts of the corovanvirus pandemic using agent-based social simulation [Paper](https://doi.org/10.1007/s11023-020-09527-6)
