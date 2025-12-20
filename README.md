@@ -173,7 +173,7 @@ The repository is initially built and maintained by [Qian Wang](https://persdre.
 
 ## Citation
 
-If you find this repository useful, you could consider citing our paper:
+If you find this repository useful, you could consider citing our following papers:
 ```
 @inproceedings{wang2025canllmsimulations,
   author = {Wang, Qian and Tang, Zhenheng and He, Bingsheng},
