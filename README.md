@@ -118,6 +118,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.4 Recommendation System & User Simulation
 
+- **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.09549)]
 - **PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation** (SIGIR, 2025) [[Paper](https://arxiv.org/abs/2506.04551)]
 - **LLM as User Simulator: Towards Training News Recommender without Real User Interactions** (SIGIR, 2025) [[Paper](https://dl.acm.org/doi/10.1145/3726302.3730224)]
 - **Agentic Feedback Loop Modeling Improves Recommendation and User Simulation** (SIGIR, 2025) [[Paper](https://arxiv.org/abs/2410.20027)] [[Code](https://github.com/Lanyu0303/AFL)]
