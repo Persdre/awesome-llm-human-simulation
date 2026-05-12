@@ -92,6 +92,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.1 Economics & Finance
 
+- **Augmenting Survey Data with Generative AI: An Application to Economic Research** (SSRN, 2026) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6343598)]
 - **AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.06008)] [[Code](https://github.com/SafeRL-Lab/AgenticPay)]
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?** (ACM EC, 2024) [[Paper](https://arxiv.org/abs/2301.07543)]
 - **Measuring Bargaining Abilities of LLMs: A Benchmark and A Buyer-Enhancement Method** (Findings of ACL, 2024) [[Paper](https://arxiv.org/abs/2402.15813)]
