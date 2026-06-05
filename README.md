@@ -154,7 +154,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **Challenges and Opportunities of LLM-Based Synthetic Personae and Data in HCI** (CHI EA, 2024) [[Paper](https://dl.acm.org/doi/10.1145/3613905.3636293)]
 
 ### 5.6 Others
-
+- **PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation** (arXiv, 2026.06) [[Paper](https://arxiv.org/pdf/2606.05697)]
 - **Improve Temporal Awareness of LLMs for Sequential Recommendation** (arXiv, 2024.05) [[Paper](https://arxiv.org/pdf/2405.02778)]
 - **How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments** (arXiv, 2024.03) [[Paper](https://arxiv.org/pdf/2403.11807)] [[Code](https://github.com/CUHK-ARISE/GAMABench)]
 - **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** (arXiv, 2023.09) [[Paper](https://arxiv.org/pdf/2309.04658)]
