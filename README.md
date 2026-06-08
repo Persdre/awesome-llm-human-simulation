@@ -47,6 +47,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning** (NeurIPS, 2025) [[Paper](https://arxiv.org/abs/2511.00222)] [[Code](https://github.com/abdulhaim/consistent-LLMs)]
 - **A Mega-Study of Digital Twins Reveals Strengths, Weaknesses and Opportunities for Further Improvement** (arXiv, 2025.09) [[Paper](https://arxiv.org/abs/2509.19088)]
 - **How Many Human Survey Respondents is a Large Language Model Worth? An Uncertainty Quantification Perspective** (arXiv, 2025.02) [[Paper](https://arxiv.org/abs/2502.17773)] [[Code](https://github.com/yw3453/uq-llm-survey-simulation)]
+- **Simulating Human-like Daily Activities with Desire-driven Autonomy** (ICLR, 2025) [[Paper](https://openreview.net/forum?id=3ms8EQY7f8)] [[Code](https://github.com/zfw1226/D2A)] [[Project](https://sites.google.com/view/desire-driven-autonomy)]
 - **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations** (EMNLP, 2025) [[Paper](https://arxiv.org/abs/2509.16457)] [[Code](https://github.com/HATS-ICT/PEBA-ASI)]
 - **Generative Agent Simulations of 1,000 People** (arXiv, 2024.11) [[Paper](https://arxiv.org/pdf/2411.10109)]
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers** (arXiv, 2024.09) [[Paper](https://arxiv.org/pdf/2409.04109)] [[Code](https://github.com/NoviScl/AI-Researcher)]
@@ -111,6 +112,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.3 Education
 
+- **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation** (ICML, 2026) [[Paper](https://edumirror.net/assets/EduMirror.pdf)] [[Project](https://edumirror.net/)]
 - **Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course** (arXiv, 2024.07) [[Paper](https://arxiv.org/abs/2407.05216)]
 - **Simulating Classroom Education with LLM-Empowered Agents** (arXiv, 2024.06) [[Paper](https://arxiv.org/pdf/2406.19226)]
 - **Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation** (arXiv, 2024.05) [[Paper](https://arxiv.org/pdf/2405.11591)]
@@ -191,6 +193,9 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 8. Social Simulation
 
+- **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** (ACL, 2026) [[Paper](https://arxiv.org/abs/2603.13876)] [[Code](https://github.com/MoralAgentSim/RoleModel-Moral-Sim)]
+- **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution** (ACL, 2026) [[Paper](https://arxiv.org/abs/2509.17703)] [[Code](https://github.com/MoralAgentSim/Simulation-Engine)] [[Project](https://moralagentsim.github.io/)]
+- **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions** (AAMAS, 2026) [[Paper](https://arxiv.org/abs/2603.13890)] [[Code](https://github.com/jingzhe-lin/ASVO)] [[Project](https://asvo-agents.github.io/ASVO-agents/)]
 - **AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society** (arXiv, 2025.02) [[Paper](https://arxiv.org/abs/2502.08691)] [[Code](https://github.com/tsinghua-fib-lab/AgentSociety)]
 - **OASIS: Open Agent Social Interaction Simulations with One Million Agents** (arXiv, 2024.11) [[Paper](https://arxiv.org/abs/2411.11581)] [[Code](https://github.com/camel-ai/oasis)]
 - **Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions** (CSCW, 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3757633)]
