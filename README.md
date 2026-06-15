@@ -122,6 +122,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 ### 5.4 Recommendation System & User Simulation
 
 - **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.09549)]
+- **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.00930)]
 - **PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation** (SIGIR, 2025) [[Paper](https://arxiv.org/abs/2506.04551)]
 - **LLM as User Simulator: Towards Training News Recommender without Real User Interactions** (SIGIR, 2025) [[Paper](https://dl.acm.org/doi/10.1145/3726302.3730224)]
 - **Agentic Feedback Loop Modeling Improves Recommendation and User Simulation** (SIGIR, 2025) [[Paper](https://arxiv.org/abs/2410.20027)] [[Code](https://github.com/Lanyu0303/AFL)]
@@ -196,6 +197,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** (ACL, 2026) [[Paper](https://arxiv.org/abs/2603.13876)] [[Code](https://github.com/MoralAgentSim/RoleModel-Moral-Sim)]
 - **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution** (ACL, 2026) [[Paper](https://arxiv.org/abs/2509.17703)] [[Code](https://github.com/MoralAgentSim/Simulation-Engine)] [[Project](https://moralagentsim.github.io/)]
 - **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions** (AAMAS, 2026) [[Paper](https://arxiv.org/abs/2603.13890)] [[Code](https://github.com/jingzhe-lin/ASVO)] [[Project](https://asvo-agents.github.io/ASVO-agents/)]
+- **CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation** (arXiv, 2025.06) [[Paper](https://arxiv.org/abs/2506.21805)]
 - **AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society** (arXiv, 2025.02) [[Paper](https://arxiv.org/abs/2502.08691)] [[Code](https://github.com/tsinghua-fib-lab/AgentSociety)]
 - **OASIS: Open Agent Social Interaction Simulations with One Million Agents** (arXiv, 2024.11) [[Paper](https://arxiv.org/abs/2411.11581)] [[Code](https://github.com/camel-ai/oasis)]
 - **Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions** (CSCW, 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3757633)]
