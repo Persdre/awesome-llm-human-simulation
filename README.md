@@ -1,5 +1,6 @@
 # Awesome LLM-based Human Simulation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![GitHub stars](https://img.shields.io/github/stars/Persdre/awesome-llm-human-simulation?style=flat&logo=github&color=gold)](https://github.com/Persdre/awesome-llm-human-simulation/stargazers)
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/Persdre/awesome-llm-human-simulation/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -31,7 +32,6 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - [10. Others](#10-others)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
-- [Star History](#star-history)
 
 ---
 
@@ -281,7 +281,3 @@ If you find this repository useful, please consider citing our papers:
   url           = {https://arxiv.org/abs/2501.08579}
 }
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Persdre/awesome-llm-human-simulation&type=Date)](https://star-history.com/#Persdre/awesome-llm-human-simulation&Date)
