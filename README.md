@@ -7,6 +7,8 @@ A curated list of research papers and resources on **LLM-based Human Simulation*
 
 Contributions are welcome! If you would like to add a paper, please open a [pull request](https://github.com/Persdre/awesome-llm-human-simulation/pulls).
 
+🕒 *Last updated: 2026.08* &nbsp;|&nbsp; 🔥 *marks recently added papers*
+
 ---
 
 ## Table of Contents
@@ -29,11 +31,14 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - [10. Others](#10-others)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
+- [Star History](#star-history)
 
 ---
 
 ## 1. Foundations & Surveys
 
+- 🔥 **The Silicon Society Cookbook: Design Space of LLM-based Social Simulations** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.00197)]
+- 🔥 **Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges** (arXiv, 2025.07) [[Paper](https://arxiv.org/abs/2507.19364)]
 - **From Persona to Personalization: A Survey on Role-Playing Language Agents** (arXiv, 2024.04) [[Paper](https://arxiv.org/pdf/2404.18231)]
 - **Can Large Language Models Transform Computational Social Science?** (Computational Linguistics, 2024.03) [[Paper](https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00502/2191886/coli_a_00502.pdf)]
 - **Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review** (arXiv, 2024.01) [[Paper](https://arxiv.org/pdf/2401.01519)]
@@ -43,6 +48,11 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 2. LLM for Human Behavior Simulation
 
+- 🔥 **Large Language Models Can Predict the Results of Social Science Experiments** (Nature, 2026.07) [[Paper](https://www.nature.com/articles/s41586-026-10742-x)]
+- 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)]
+- 🔥 **Evaluating LLMs as Human Surrogates in Controlled Experiments** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.15329)]
+- 🔥 **This Human Study Did Not Involve Human Subjects: Validating LLM Simulations as Behavioral Evidence** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.15785)]
+- 🔥 **Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.18462)]
 - **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.17087)]
 - **Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning** (NeurIPS, 2025) [[Paper](https://arxiv.org/abs/2511.00222)] [[Code](https://github.com/abdulhaim/consistent-LLMs)]
 - **A Mega-Study of Digital Twins Reveals Strengths, Weaknesses and Opportunities for Further Improvement** (arXiv, 2025.09) [[Paper](https://arxiv.org/abs/2509.19088)]
@@ -93,6 +103,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.1 Economics & Finance
 
+- 🔥 **EconSimulacra: A Digital Twin Platform of Socio-Economic Systems Powered by LLM Agents** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.26883)]
 - **Augmenting Survey Data with Generative AI: An Application to Economic Research** (SSRN, 2026) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6343598)]
 - **AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.06008)] [[Code](https://github.com/SafeRL-Lab/AgenticPay)]
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?** (ACM EC, 2024) [[Paper](https://arxiv.org/abs/2301.07543)]
@@ -121,6 +132,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.4 Recommendation System & User Simulation
 
+- 🔥 **LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation** (arXiv, 2026.03) [[Paper](https://arxiv.org/abs/2603.12152)]
 - **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.09549)]
 - **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.00930)]
 - **PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation** (SIGIR, 2025) [[Paper](https://arxiv.org/abs/2506.04551)]
@@ -165,6 +177,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 6. LLM Evaluation
 
+- 🔥 **VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.11079)]
 - **Benchmarking LLMs' Judgments with No Gold Standard** (arXiv, 2024.11) [[Paper](https://arxiv.org/pdf/2411.07127)]
 - **Cognitive Overload Attack: Prompt Injection for Long Context** (arXiv, 2024.10) [[Paper](https://arxiv.org/abs/2410.11272)]
 - **Moral Alignment for LLM Agents** (arXiv, 2024.10) [[Paper](https://arxiv.org/pdf/2410.01639)]
@@ -182,6 +195,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 7. Cognition & Psychology
 
+- 🔥 **Simulating Human Memory with Language Models** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.25680)]
 - **Grounded Cognition** (Annual Review of Psychology, 2008) [[Paper](http://barsaloulab.org/Online_Articles/2008-Barsalou-ARP-grounded_cognition.pdf)]
 - **Language and Simulation in Conceptual Processing** (Symbols, Embodiment, and Meaning, 2008) [[Paper](https://barsaloulab.org/Online_Articles/2008-Barsalou_et_al-chap-language_situated_simulation.pdf)]
 - **Dual Coding Theory: Retrospect and Current Status** (Canadian Journal of Psychology, 1991) [[Paper](https://psycnet.apa.org/fulltext/1992-07881-001.html)]
@@ -194,6 +208,10 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 8. Social Simulation
 
+- 🔥 **Should LLM Agents Decide in Social Simulations? Comparing Finite-State and LLM-Based Decision Policies** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.12369)]
+- 🔥 **Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.18890)]
+- 🔥 **APS: Bias-Controlled Adaptive Prototype Simulation for Population-Scale LLM Agents** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.27419)]
+- 🔥 **Topology-Aware LLM-Driven Social Simulation: A Unified Framework for Efficient and Realistic Agent Dynamics** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.18011)]
 - **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** (ACL, 2026) [[Paper](https://arxiv.org/abs/2603.13876)] [[Code](https://github.com/MoralAgentSim/RoleModel-Moral-Sim)]
 - **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution** (ACL, 2026) [[Paper](https://arxiv.org/abs/2509.17703)] [[Code](https://github.com/MoralAgentSim/Simulation-Engine)] [[Project](https://moralagentsim.github.io/)]
 - **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions** (AAMAS, 2026) [[Paper](https://arxiv.org/abs/2603.13890)] [[Code](https://github.com/jingzhe-lin/ASVO)] [[Project](https://asvo-agents.github.io/ASVO-agents/)]
@@ -263,3 +281,7 @@ If you find this repository useful, please consider citing our papers:
   url           = {https://arxiv.org/abs/2501.08579}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Persdre/awesome-llm-human-simulation&type=Date)](https://star-history.com/#Persdre/awesome-llm-human-simulation&Date)
