@@ -8,7 +8,7 @@ A curated list of research papers and resources on **LLM-based Human Simulation*
 
 Contributions are welcome! If you would like to add a paper, please open a [pull request](https://github.com/Persdre/awesome-llm-human-simulation/pulls).
 
-🕒 *Last updated: 2026.08* &nbsp;|&nbsp; 🔥 *marks recently added papers*
+🕒 *Last updated: 2026.08* &nbsp;|&nbsp; 🔥 *recently added* &nbsp;|&nbsp; ⭐ *maintainer's papers* &nbsp;|&nbsp; 🏆 *award-winning papers*
 
 ---
 
@@ -39,6 +39,8 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 - 🔥 **The Silicon Society Cookbook: Design Space of LLM-based Social Simulations** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.00197)]
 - 🔥 **Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges** (arXiv, 2025.07) [[Paper](https://arxiv.org/abs/2507.19364)]
+- ⭐ **LLM-based Human Simulations Have Not Yet Been Reliable** (arXiv, 2025.01) [[Paper](https://arxiv.org/abs/2501.08579)]
+- ⭐ **Can LLM Simulations Truly Reflect Humanity? A Deep Dive** (ICLR Blogposts, 2025) [[Paper](https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/)]
 - **From Persona to Personalization: A Survey on Role-Playing Language Agents** (arXiv, 2024.04) [[Paper](https://arxiv.org/pdf/2404.18231)]
 - **Can Large Language Models Transform Computational Social Science?** (Computational Linguistics, 2024.03) [[Paper](https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00502/2191886/coli_a_00502.pdf)]
 - **Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review** (arXiv, 2024.01) [[Paper](https://arxiv.org/pdf/2401.01519)]
@@ -71,12 +73,14 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **Personality Traits in Large Language Models** (arXiv, 2023.07) [[Paper](https://arxiv.org/pdf/2307.00184)] [[Code](https://github.com/google-research/google-research/tree/master/psyborgs)]
 - **Role Play with Large Language Models** (Nature, 2023.11) [[Paper](https://arxiv.org/pdf/2305.16367)]
 - **The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective** (arXiv, 2023.12) [[Paper](https://arxiv.org/abs/2312.15524)]
+- 🏆 **Generative Agents: Interactive Simulacra of Human Behavior** (UIST, 2023, Best Paper Award) [[Paper](https://arxiv.org/abs/2304.03442)] [[Code](https://github.com/joonspk-research/generative_agents)]
+- **Out of One, Many: Using Language Models to Simulate Human Samples** (Political Analysis, 2023) [[Paper](https://arxiv.org/abs/2209.06899)]
 - **Meet Your Favorite Character: Open-Domain Chatbot Mimicking Fictional Characters with Only a Few Utterances** (arXiv, 2022.04) [[Paper](https://arxiv.org/pdf/2204.10825)]
 
 ## 3. LLM Agent
 
 - **An LLM-based Simulation Framework for Embodied Conversational Agents in Psychological Counseling** (arXiv, 2024.10) [[Paper](https://arxiv.org/pdf/2410.22041v1)] [[Code](https://github.com/AIR-DISCOVER/ECAs-Dataset)]
-- **MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems** (arXiv, 2024.08) [[Paper](https://arxiv.org/pdf/2408.09955)]
+- ⭐ **MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs** (Findings of ACL, 2025) [[Paper](https://aclanthology.org/2025.findings-acl.259/)] [[Code](https://github.com/Xtra-Computing/MegaAgent)]
 - **Hello Again! LLM-powered Personalized Agent for Long-term Dialogue** (arXiv, 2024.06) [[Paper](https://arxiv.org/abs/2406.05925)] [[Code](https://github.com/leolee99/LD-Agent)]
 - **Towards Lifelong Learning of Large Language Models: A Survey** (arXiv, 2024.06) [[Paper](https://arxiv.org/pdf/2406.06391)] [[Code](https://github.com/qianlima-lab/awesome-lifelong-learning-methods-for-llm)]
 - **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** (arXiv, 2024.05) [[Paper](https://arxiv.org/pdf/2405.02957)]
@@ -108,7 +112,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.06008)] [[Code](https://github.com/SafeRL-Lab/AgenticPay)]
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?** (ACM EC, 2024) [[Paper](https://arxiv.org/abs/2301.07543)]
 - **Measuring Bargaining Abilities of LLMs: A Benchmark and A Buyer-Enhancement Method** (Findings of ACL, 2024) [[Paper](https://arxiv.org/abs/2402.15813)]
-- **CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** (arXiv, 2024.06) [[Paper](https://arxiv.org/abs/2407.09546)] [[Code](https://anonymous.4open.science/r/CryptoTrade-Public-92FC/)]
+- ⭐ **CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** (EMNLP, 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.63/)] [[Code](https://github.com/Xtra-Computing/CryptoTrade)]
 - **Simulating Financial Market via Large Language Model Based Agents** (arXiv, 2024.06) [[Paper](https://arxiv.org/pdf/2406.19966)]
 - **EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities** (ACL, 2024) [[Paper](https://aclanthology.org/2024.acl-long.829.pdf)] [[Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)]
 - **Designing Heterogeneous LLM Agents for Financial Sentiment Analysis** (ACM TMIS, 2024.08) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3688399)]
