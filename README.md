@@ -212,6 +212,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 8. Social Simulation
 
+- 🔥 **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2608.16897)]
 - 🔥 **Should LLM Agents Decide in Social Simulations? Comparing Finite-State and LLM-Based Decision Policies** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.12369)]
 - 🔥 **Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.18890)]
 - 🔥 **APS: Bias-Controlled Adaptive Prototype Simulation for Population-Scale LLM Agents** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.27419)]
