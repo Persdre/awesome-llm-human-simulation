@@ -51,7 +51,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 ## 2. LLM for Human Behavior Simulation
 
 - 🔥 **Large Language Models Can Predict the Results of Social Science Experiments** (Nature, 2026.07) [[Paper](https://www.nature.com/articles/s41586-026-10742-x)]
-- 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)]
+- 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)] [[Code](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses)]
 - 🔥 **Evaluating LLMs as Human Surrogates in Controlled Experiments** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.15329)]
 - 🔥 **This Human Study Did Not Involve Human Subjects: Validating LLM Simulations as Behavioral Evidence** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.15785)]
 - 🔥 **Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.18462)]
