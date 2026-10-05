@@ -59,6 +59,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.17087)]
 - **Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning** (NeurIPS, 2025) [[Paper](https://arxiv.org/abs/2511.00222)] [[Code](https://github.com/abdulhaim/consistent-LLMs)]
 - **A Mega-Study of Digital Twins Reveals Strengths, Weaknesses and Opportunities for Further Improvement** (arXiv, 2025.09) [[Paper](https://arxiv.org/abs/2509.19088)]
+- **Large Language Models that Replace Human Participants Can Harmfully Misportray and Flatten Identity Groups** (Nature Machine Intelligence, 2025.02) [[Paper](https://www.nature.com/articles/s42256-025-00986-z)]
 - **How Many Human Survey Respondents is a Large Language Model Worth? An Uncertainty Quantification Perspective** (arXiv, 2025.02) [[Paper](https://arxiv.org/abs/2502.17773)] [[Code](https://github.com/yw3453/uq-llm-survey-simulation)]
 - **Simulating Human-like Daily Activities with Desire-driven Autonomy** (ICLR, 2025) [[Paper](https://openreview.net/forum?id=3ms8EQY7f8)] [[Code](https://github.com/zfw1226/D2A)] [[Project](https://sites.google.com/view/desire-driven-autonomy)]
 - **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations** (EMNLP, 2025) [[Paper](https://arxiv.org/abs/2509.16457)] [[Code](https://github.com/HATS-ICT/PEBA-ASI)]
