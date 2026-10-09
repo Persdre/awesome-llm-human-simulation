@@ -50,6 +50,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 2. LLM for Human Behavior Simulation
 
+- 🔥 **Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior** (NeurIPS, 2026) [[Paper](https://arxiv.org/abs/2610.08328)] [[Code](https://github.com/DDanel0727/spinn/tree/main)]
 - 🔥 **Large Language Models Can Predict the Results of Social Science Experiments** (Nature, 2026.07) [[Paper](https://www.nature.com/articles/s41586-026-10742-x)]
 - 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)]
 - 🔥 **Quantifying the Utility of User Simulators for Building Collaborative LLM Assistants** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.09808)]
