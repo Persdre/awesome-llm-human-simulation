@@ -54,12 +54,15 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - 🔥 **Large Language Models Can Predict the Results of Social Science Experiments** (Nature, 2026.07) [[Paper](https://www.nature.com/articles/s41586-026-10742-x)]
 - 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)]
 - 🔥 **Quantifying the Utility of User Simulators for Building Collaborative LLM Assistants** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.09808)]
+- 🔥 **CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.25511)]
 - 🔥 **Evaluating LLMs as Human Surrogates in Controlled Experiments** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.15329)]
 - 🔥 **This Human Study Did Not Involve Human Subjects: Validating LLM Simulations as Behavioral Evidence** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.15785)]
 - 🔥 **Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents** (arXiv, 2026.02) [[Paper](https://arxiv.org/abs/2602.18462)]
 - **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.17087)]
+- 🔥 **Character-R1: Enhancing Role-Aware Reasoning in Role-Playing Agents via RLVR** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.04611)]
 - **Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning** (NeurIPS, 2025) [[Paper](https://arxiv.org/abs/2511.00222)] [[Code](https://github.com/abdulhaim/consistent-LLMs)]
 - **A Mega-Study of Digital Twins Reveals Strengths, Weaknesses and Opportunities for Further Improvement** (arXiv, 2025.09) [[Paper](https://arxiv.org/abs/2509.19088)]
+- **RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents** (arXiv, 2025.07) [[Paper](https://arxiv.org/abs/2507.03112)] [[Code](https://github.com/Tencent/DigitalHuman/tree/main/RLVER)]
 - **Large Language Models that Replace Human Participants Can Harmfully Misportray and Flatten Identity Groups** (Nature Machine Intelligence, 2025.02) [[Paper](https://www.nature.com/articles/s42256-025-00986-z)]
 - **How Many Human Survey Respondents is a Large Language Model Worth? An Uncertainty Quantification Perspective** (arXiv, 2025.02) [[Paper](https://arxiv.org/abs/2502.17773)] [[Code](https://github.com/yw3453/uq-llm-survey-simulation)]
 - **Simulating Human-like Daily Activities with Desire-driven Autonomy** (ICLR, 2025) [[Paper](https://openreview.net/forum?id=3ms8EQY7f8)] [[Code](https://github.com/zfw1226/D2A)] [[Project](https://sites.google.com/view/desire-driven-autonomy)]
@@ -139,6 +142,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.4 Recommendation System & User Simulation
 
+- 🔥 **TRACER: Trajectory-Aligned Learning for Multi-Turn User Simulation** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.28690)]
 - 🔥 **LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation** (arXiv, 2026.03) [[Paper](https://arxiv.org/abs/2603.12152)]
 - **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.09549)]
 - **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.00930)]
@@ -184,7 +188,9 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 6. LLM Evaluation
 
+- 🔥 **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** (arXiv, 2026.08) [[Paper](https://arxiv.org/abs/2608.02046)]
 - 🔥 **VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.11079)]
+- **Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models** (arXiv, 2025.05) [[Paper](https://arxiv.org/abs/2505.02847)] [[Code](https://github.com/Tencent/DigitalHuman/tree/main/SAGE)]
 - **Benchmarking LLMs' Judgments with No Gold Standard** (arXiv, 2024.11) [[Paper](https://arxiv.org/pdf/2411.07127)]
 - **Cognitive Overload Attack: Prompt Injection for Long Context** (arXiv, 2024.10) [[Paper](https://arxiv.org/abs/2410.11272)]
 - **Moral Alignment for LLM Agents** (arXiv, 2024.10) [[Paper](https://arxiv.org/pdf/2410.01639)]
