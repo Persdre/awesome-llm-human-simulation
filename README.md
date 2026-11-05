@@ -53,6 +53,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - 🔥 **Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior** (NeurIPS, 2026) [[Paper](https://arxiv.org/abs/2610.08328)] [[Code](https://github.com/DDanel0727/spinn/tree/main)]
 - 🔥 **Large Language Models Can Predict the Results of Social Science Experiments** (Nature, 2026.07) [[Paper](https://www.nature.com/articles/s41586-026-10742-x)]
 - 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)]
+- 🔥 **Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure** (ML4H, 2026) [[Paper](https://arxiv.org/abs/2606.17441)] [[Code](https://github.com/mo374z/PatientsWithPersonality)] [[Project](https://mo374z.github.io/PatientsWithPersonality/)]
 - 🔥 **Quantifying the Utility of User Simulators for Building Collaborative LLM Assistants** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.09808)]
 - 🔥 **CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.25511)]
 - 🔥 **Evaluating LLMs as Human Surrogates in Controlled Experiments** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.15329)]
