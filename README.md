@@ -51,6 +51,12 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 ## 2. LLM for Human Behavior Simulation
 
 - 🔥 **Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior** (NeurIPS, 2026) [[Paper](https://arxiv.org/abs/2610.08328)] [[Code](https://github.com/DDanel0727/spinn/tree/main)]
+- 🔥 **State-Aware Virtual Patient Simulation for Training Psychiatrists in Challenging Clinical Scenarios** (arXiv, 2026.11) [[Paper](https://arxiv.org/abs/2611.02067)]
+- 🔥 **Validating LLM-Generated Synthetic Survey Samples: A Use-Dependent Multi-Dimensional Framework for Social-Science Applications** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2611.00256)]
+- 🔥 **Silicon Samples Match the Answers but Not the Respondents** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.30900)]
+- 🔥 **Inspectable LLM-Simulated Participants for Qualitative Interview Rehearsal** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.27333)]
+- 🔥 **Probable but Not Valid: A Psychometric Audit of Decision Models as Synthetic Survey Respondents** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.14912)]
+- 🔥 **Understanding Reliability in LLM-based Human Behavior Simulation** (EMNLP, 2026) [[Paper](https://arxiv.org/abs/2609.25066)]
 - 🔥 **Silicon Sampling Answers with Country-Level Assumptions, Not Individual Attitudes: Cross-National Evidence from the European Social Survey** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.16395)] [[Code](https://github.com/chuyao-wang/silicon-replication)]
 - 🔥 **Measuring the Behavioral Fidelity of Long-Horizon Human Activity Simulations** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.01257)]
 - 🔥 **"Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators** (Findings of EMNLP, 2026) [[Paper](https://arxiv.org/abs/2608.30033)]
@@ -58,6 +64,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - 🔥 **Large Language Models Can Predict the Results of Social Science Experiments** (Nature, 2026.07) [[Paper](https://www.nature.com/articles/s41586-026-10742-x)]
 - 🔥 **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.26348)]
 - 🔥 **LLMs Struggle to Simulate Human Belief Updates in Controlled Environments** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.28347)]
+- 🔥 **Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2608.14606)]
 - 🔥 **Silicon Sampling via Cross-Survey Transfer** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2607.03091)]
 - 🔥 **Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure** (ML4H, 2026) [[Paper](https://arxiv.org/abs/2606.17441)] [[Code](https://github.com/mo374z/PatientsWithPersonality)] [[Project](https://mo374z.github.io/PatientsWithPersonality/)]
 - 🔥 **Quantifying the Utility of User Simulators for Building Collaborative LLM Assistants** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.09808)]
@@ -108,6 +115,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 4. LLM Bias & Value
 
+- 🔥 **Measuring Human-Like Bias in LLMs? A Critique of Human-Derived Bias Constructs in LLM Evaluation** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2610.00070)]
 - **Gender Bias of LLM in Economics: An Existentialism Perspective** (arXiv, 2024.10) [[Paper](https://arxiv.org/pdf/2410.19775)]
 - **Measuring Human and AI Values based on Generative Psychometrics with Large Language Models** (arXiv, 2024.09) [[Paper](https://arxiv.org/pdf/2409.12106)] [[Code](https://github.com/Value4AI/gpv)]
 - **United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections** (arXiv, 2024.08) [[Paper](https://arxiv.org/pdf/2409.09045)]
@@ -123,6 +131,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.1 Economics & Finance
 
+- 🔥 **S²-MAS: A Society-Scale Multi-Agent Simulation Framework with a 500-Million-Persona Resource** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.27746)] [[Code](https://github.com/KataDavidXD/s2-mas)]
 - 🔥 **Competitive Market Behavior of LLMs** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.02580)]
 - 🔥 **EconSimulacra: A Digital Twin Platform of Socio-Economic Systems Powered by LLM Agents** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.26883)]
 - 🔥 **Dissecting AI Trading: Behavioral Finance and Market Bubbles** (arXiv, 2026.04) [[Paper](https://arxiv.org/abs/2604.18373)]
@@ -148,6 +157,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 ### 5.3 Education
 
 - 🔥 **MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring** (AACL, 2026) [[Paper](https://arxiv.org/abs/2610.31679)]
+- 🔥 **Simulating Disengaged Students to Evaluate LLM-based Tutors** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.12331)]
 - 🔥 **StudentSim: Training LLM-based Student Simulators** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.01591)] [[Code](https://github.com/microsoft/StudentSim)]
 - 🔥 **Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.12748)]
 - 🔥 **Towards Valid Student Simulation with Large Language Models** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.05473)]
@@ -160,7 +170,10 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.4 Recommendation System & User Simulation
 
+- 🔥 **Disclosure-Gated User Simulation for Companion-Agent Evaluation** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.00982)]
 - 🔥 **PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems** (arXiv, 2026.08) [[Paper](https://arxiv.org/abs/2608.28378)]
+- 🔥 **AutoSim: A Self-Improving User Simulator for Conversational Search Evaluation** (SIGIR-AP, 2026) [[Paper](https://arxiv.org/abs/2610.28054)]
+- 🔥 **SIM-UT: A User Simulation based Evaluation Framework for Medical Triage Chatbots** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.30412)]
 - 🔥 **TRACER: Trajectory-Aligned Learning for Multi-Turn User Simulation** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.28690)]
 - 🔥 **Mind the Sim2Real Gap in User Simulation for Agentic Tasks** (COLM, 2026) [[Paper](https://arxiv.org/abs/2603.11245)]
 - 🔥 **Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.12894)]
@@ -183,6 +196,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ### 5.5 Customer & Consumer Simulation
 
+- 🔥 **Towards Faithful Simulation of Human Shopping Behavior** (arXiv, 2026.08) [[Paper](https://arxiv.org/abs/2608.20707)]
 - 🔥 **Simulated Customers Never Walk Away: Decision Fidelity of LLM User Simulators Measured Against Real Purchase Outcomes** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.20708)]
 - 🔥 **Synthetic Personalities: How Well Can LLMs Mimic Individual Respondents Using Socio-Economic Microdata?** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.04592)]
 - **ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants** (arXiv, 2026.01) [[Paper](https://arxiv.org/abs/2601.18225)]
@@ -211,6 +225,9 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 6. LLM Evaluation
 
+- 🔥 **AgentPersonaBench: Benchmarking Persona-Driven User Simulation** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.04379)]
+- 🔥 **SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation** (NeurIPS Workshop, 2026) [[Paper](https://arxiv.org/abs/2610.30047)] [[Code](https://github.com/lorenzbrehme/swe-dive_usersim)]
+- 🔥 **Do LLMs Understand Personality? Rethinking Persona Fidelity Evaluation through Structured Behavioral Inference** (EMNLP, 2026) [[Paper](https://arxiv.org/abs/2608.26674)]
 - 🔥 **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** (arXiv, 2026.08) [[Paper](https://arxiv.org/abs/2608.02046)]
 - 🔥 **VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.11079)]
 - **Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models** (arXiv, 2025.05) [[Paper](https://arxiv.org/abs/2505.02847)] [[Code](https://github.com/Tencent/DigitalHuman/tree/main/SAGE)]
@@ -246,7 +263,14 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 
 ## 8. Social Simulation
 
+- 🔥 **Measuring Model-Specific Alignment Drift in LLM-Based Opinion Dynamics** (arXiv, 2026.11) [[Paper](https://arxiv.org/abs/2611.03980)]
+- 🔥 **When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems** (arXiv, 2026.10) [[Paper](https://arxiv.org/abs/2610.19863)]
+- 🔥 **Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents** (EMNLP REALM Workshop, 2026) [[Paper](https://arxiv.org/abs/2609.21997)]
+- 🔥 **Interpreting and Steering LLM Agents for Social Simulations** (arXiv, 2026.09) [[Paper](https://arxiv.org/abs/2609.16436)]
+- 🔥 **LLM-Augmented Agent-Based Simulation of Cyber Social Agents** (arXiv, 2026.08) [[Paper](https://arxiv.org/abs/2610.32988)]
 - 🔥 **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents** (arXiv, 2026.07) [[Paper](https://arxiv.org/abs/2608.16897)]
+- 🔥 **Knowing You Is Everything: LLM Agents Achieve Near-Perfect Profile-Consistent Reaction Prediction in Social Media Simulation** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2608.07498)]
+- 🔥 **Human-Simulation Interaction: From Prediction to Exploration in LLM Agent Simulations for Policy** (PoliSim@CHI Workshop, 2026) [[Paper](https://arxiv.org/abs/2608.07496)]
 - 🔥 **Should LLM Agents Decide in Social Simulations? Comparing Finite-State and LLM-Based Decision Policies** (arXiv, 2026.06) [[Paper](https://arxiv.org/abs/2606.12369)]
 - 🔥 **Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.18890)]
 - 🔥 **APS: Bias-Controlled Adaptive Prototype Simulation for Population-Scale LLM Agents** (arXiv, 2026.05) [[Paper](https://arxiv.org/abs/2605.27419)]
