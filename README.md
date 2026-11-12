@@ -85,6 +85,7 @@ Contributions are welcome! If you would like to add a paper, please open a [pull
 - **Simulating Human-like Daily Activities with Desire-driven Autonomy** (ICLR, 2025) [[Paper](https://openreview.net/forum?id=3ms8EQY7f8)] [[Code](https://github.com/zfw1226/D2A)] [[Project](https://sites.google.com/view/desire-driven-autonomy)]
 - **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations** (EMNLP, 2025) [[Paper](https://arxiv.org/abs/2509.16457)] [[Code](https://github.com/HATS-ICT/PEBA-ASI)]
 - **Generative Agent Simulations of 1,000 People** (arXiv, 2024.11) [[Paper](https://arxiv.org/pdf/2411.10109)]
+- **PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals** (EMNLP, 2024) [[Paper](https://arxiv.org/abs/2405.19660)] [[Code](https://github.com/ruiyiw/patient-psi)]
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers** (arXiv, 2024.09) [[Paper](https://arxiv.org/pdf/2409.04109)] [[Code](https://github.com/NoviScl/AI-Researcher)]
 - **Language Models Show Stable Value Orientations Across Diverse Role-Plays** (arXiv, 2024.08) [[Paper](https://arxiv.org/pdf/2408.09049)]
 - **PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents** (ACL, 2024) [[Paper](https://aclanthology.org/2024.acl-long.779.pdf)]
